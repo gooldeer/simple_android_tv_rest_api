@@ -1,0 +1,64 @@
+{
+  "videos": [
+    {
+      "name": "Category 1",
+      "videos": [
+        {
+          "name": "Video 1",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+        {
+          "name": "Video 2",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+        {
+          "name": "Video 3",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+      ]
+    },
+    {
+      "name": "Category 2",
+      "videos": [
+        {
+          "name": "Video 1",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+        {
+          "name": "Video 2",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+        {
+          "name": "Video 3",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+      ]
+    },
+    {
+      "name": "Category 3",
+      "videos": [
+        {
+          "name": "Video 1",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+        {
+          "name": "Video 2",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+        {
+          "name": "Video 3",
+          "snapshotUrl": "https://docs.fastlane.tools/img/actions/snapshot.png",
+          "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        },
+      ]
+    },
+  ]
+}
